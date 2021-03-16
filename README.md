@@ -23,7 +23,7 @@ This demo has a car types counting too
 3. prepare your yolov4 weights
 4. copy car_track_demo.py to the yolov4 pytorch directory
 ```
-[You may follow VidGear to install](https://abhitronix.github.io/vidgear/latest/installation/pip_install/)\
+[You may follow VidGear to pip install](https://abhitronix.github.io/vidgear/latest/installation/pip_install/)\
 [You may follow AlexeyAB yolov4 training instruction to train your own weights](https://github.com/AlexeyAB/darknet)
 
 
