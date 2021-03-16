@@ -33,8 +33,8 @@ python car_track_demo.py [-cfgfile ___your_cfg_file___] [-namefile ___your_name_
 [-video ___your_input_video___] [-output ___your_output_file___] [-show_img] [-stream_on]
 
 ### e.g. python car_track_demo.py -cfgfile ./cfg/car_type.cfg -namefile ./data/car_type.names -weightfile ./data/car_type_best.weights -video ./data/car_type/test_car.mp4 -output ./car_detected.mp4
-### if -show_img used, it will prompt a opencv window (cv2.imshow()) to show the detecting 
-### if -stream_on used, it is for real-time streaming (RTSP/HTTP) or streaming video to reconnect the stream when receiving broken frame
+### -show_img, it will prompt a opencv window (cv2.imshow()) to show the detecting 
+### -stream_on, it is for real-time streaming (RTSP/HTTP) or streaming video to reconnect the stream when receiving broken frame
 ```
 
 **Customization:**
