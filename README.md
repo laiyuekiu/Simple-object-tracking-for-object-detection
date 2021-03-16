@@ -14,7 +14,7 @@ A full demo of tracking cars by using Yolov4 Pytorch model, car_track_demo.py
 The model of Yolov4 Pytorch is developed by @Tianxiaomo and this demo combines the Yolov4 Pytorch and the object tracking
 https://github.com/Tianxiaomo/pytorch-YOLOv4
 
-Car types counting is included
+_Car types counting is included_
 
 **Installation:**
 ```
