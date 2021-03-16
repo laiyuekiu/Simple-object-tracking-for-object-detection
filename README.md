@@ -11,7 +11,7 @@ This object tracking works on multi classes but it tracks object coordinate only
 ----------------------------
 A full demo of tracking cars by using Yolov4 Pytorch model, car_track_demo.py
 
-The model of Yolov4 Pytorch is developed by Tianxiaomo and this demo combines the Yolov4 Pytorch and the object tracking
+The model of Yolov4 Pytorch is developed by @Tianxiaomo and this demo combines the Yolov4 Pytorch and the object tracking
 https://github.com/Tianxiaomo/pytorch-YOLOv4
 
 This demo has a car types counting too
