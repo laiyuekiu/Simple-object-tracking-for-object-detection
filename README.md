@@ -1,4 +1,4 @@
-# Simple-object-tracking-for-object-detection
+# Simple object tracking for object detection
 An object tracking for different object detection models like YOLO
 
 Base on object detection model detection results to do the tracking, tracking by the bounding box coordinate
@@ -53,3 +53,7 @@ In car_track_demo.py **Line 113**
 ```
 if m[0]-0 <= 40 or m[1]-0 <= 40 or img_w-m[2] <= 100 or img_h-m[3] <= 100:
 ```
+----------------------------------------------
+If you need a better object tracking, you can have a look Deep SORT / SORT \
+[Deep SORT](https://github.com/nwojke/deep_sort)\
+[SORT](https://github.com/abewley/sort)
