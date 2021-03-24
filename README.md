@@ -10,7 +10,7 @@ This object tracking works on multi classes but it tracks object coordinate only
 
 ----------------------------
 
-obj_track.py is a python module that can be directly import to use.
+**obj_track.py - a python module**
 
 obj_track.py requires 3 input, bbox, track_bbox_list, image:
 1. bbox: a list of all current detection result (bounding box coordinate), the list should following in this format: [[xmin,ymin,xmax,ymax, ...], [xmin,ymin,xmax,ymax, ...], ...] <br/>
@@ -24,7 +24,7 @@ The bounding box coordinate should be in pixel unit and the point of top-left an
 Can refer to below tracking cars demo to see the implementation.
 
 ----------------------------
-A full demo of tracking cars by using Yolov4 Pytorch model, car_track_demo.py
+**A full demo of tracking cars by using Yolov4 Pytorch model, car_track_demo.py**
 
 The model of Yolov4 Pytorch is developed by @Tianxiaomo and this demo combines the Yolov4 Pytorch and the object tracking
 https://github.com/Tianxiaomo/pytorch-YOLOv4
